@@ -1,0 +1,68 @@
+body{
+	border: 20px;
+	border-color: yellow;
+	background-image: url("https://scontent.fagc3-1.fna.fbcdn.net/v/t1.0-9/55949805_2272916236264282_4057579213689978880_n.jpg?_nc_cat=111&_nc_ht=scontent.fagc3-1.fna&oh=cf0c6ac306487e2eb5647198f77f123d&oe=5D641857");
+	background-size: cover;
+	margin: 5px;
+	color: white;
+	font-size: 20px;
+	
+
+	}
+
+
+
+h1 {
+	color: white;
+	font-family: "Edo SZ Regular", Edo, "Courier", Times, Serif;
+	float: left;
+	font-size: 40px;
+	border-bottom: 3px solid white;
+	border-bottom-color: white;
+background-color: #b30086;	}
+
+p {
+	color: white;
+	font-size: rem;
+	float: left;
+}
+
+nav ul{
+	flex: 1;
+	flex-wrap: wrap;
+	float: right;
+	display: flex;
+	color:red;
+	background-color: #b30086; 
+	list-style: none;
+	border-bottom: 3px solid white;
+	border-bottom-color: white;
+	
+}
+nav li{
+	border: 3px solid white;
+	margin: 10px;
+	background-color:  #ffc34d;
+	border-bottom: 3px solid white;
+	border-bottom-color: white;
+}
+.button a{
+	background-size: cover;
+	height: 150px;
+	width: 150px;
+	align-content: left;
+	padding: 15px;
+	
+}
+.button ul{
+	list-style-type: none;
+	style=vertical-align:middle
+	align-content: center;
+	float: left;
+}
+a: active{
+	top: 2px;
+}
+iframe{
+	align-content: center;
+}

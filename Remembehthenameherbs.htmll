@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Wasted Info Band</title>
+	<link rel="stylesheet" type="text/css" href="main.css"/>
+</head>
+
+
+
+</head>
+<form>
+
+</form>
+<body>
+	<h1><b>"Wasted Info"</b></h1>
+	<!---<p>
+	"Wasted Info is a an alternitive rock and roll group based in Erie Pennsylvania."
+	</p>--->
+<nav>
+	<ul>
+		<li><a href="#">About</a></li>
+		<li>Members</li>
+		<li>Contact</li>
+		<li>Merch</li>
+	</ul>
+</nav>
+<section class="video">
+<iframe width= 600px height=400px src="https://www.youtube.com/embed/q_xcaxwxx1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
+<section class="button">
+<ul>
+	<li>
+<a href="http://facebook.com/wastedinfoband/">
+	<img src="http://www.shivashantiyoga.com/wp-content/uploads/2017/02/fb-logo.png" style="width:30px;height:30px;border0;">
+	</a>
+	</li>
+	<li>
+	<a href="https://www.youtube.com/channel/UC5cfxWzYDaqUD-4HIlCEQUg">
+	<img src="https://cdn.vox-cdn.com/thumbor/KEpRl7PPiiwpXPfDEOzkpM6S7ak=/0x0:960x960/1200x800/filters:focal(404x404:556x556)/cdn.vox-cdn.com/uploads/chorus_image/image/58223637/14915318_10155148305236754_7471955098066766739_n.0.png" style="width:30px;height:30px;border0;">
+	</li>
+	</a>
+	<li>
+		<a href="https://twitter.com/wastedinfoband">
+		<img src="https://brazenglobal.com/wp-content/uploads/2017/11/twitter-logo-2.png" style="width:30px;height:30px;border0;">
+		</a>
+	</li>
+	<li>
+		<a href="https://www.instagram.com/wastedinfoband/">
+		<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square1-512.png" style="width:30px;height:30px;border0;">
+	</li>
+	</ul>
+	</a>
+</section>
+
+ 
+
+
+</body>
+
+</html>
